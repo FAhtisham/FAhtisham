@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahtishamfa" target="blank"><img src="https://img.shields.io/twitter/follow/ahtishamfa?logo=twitter&style=for-the-badge" alt="ahtishamfa" /></a> </p>
 
-- 🔭 I’m currently working on [AIMPID](https://www.mv.uni-kl.de/fileadmin/mec/Dokumente/pdfs/AIMPID.pdf)
+- 🔭 I’m currently working on [Applied Deep Learning in Genomics](-)
 
 - 🌱 I’m currently learning **front end developement**
 
